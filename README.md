@@ -15,10 +15,12 @@ Implémenter l'algorithme Ant Colony Systems (ACS) appliqué pour résoudre le p
   Cliquez sur le bouton SETUP pour créer un graphique aléatoire, une nouvelle colonie de 
   fourmis, et dessiner un tour initial sur le graphique. Cliquez sur le bouton GO pour démarrer 
   la simulation. 
+  
   Normalement au cours temps on obtient le temps minimal pour résoudre ce problème TSP 
   qu’on a généré avec le plus court chemin cité, la fourmi nous ayant permis de l’avoir et au 
   bout de quelle itération obtient-on ce résultat (information disponible dans la Command 
   center)
+  
   Le bouton RESET conserve le même graphe que celui généré par l’opération SETUP, mais il 
   réinitialise tout le reste de l’algorithme (c’est-à-dire qu’il détruit toutes les fourmis et les 
   arêtes du graphe et efface tous les tracés). Le bouton RESET permet à l’utilisateur d’exécuter 
